@@ -1,7 +1,7 @@
 # Etapas en el proceso de fabricación de piezas de MDF
 
 El proceso de fabricación de piezas de MDF (tablero de fibra de densidad media) incluye varias etapas, desde el corte láser hasta el almacenamiento. En este documento se describirán las diferentes etapas del proceso en el orden en que se realizan.
-Las piezas a desarrollar son una estantería de vinos, un taburete y una base para un portatil.
+Las piezas a desarrollar son una estantería de vinos, un taburete y una base para un computador portátil.
 
 ## 1. Suministro de láminas de MDF mediante montacargas
 
@@ -64,10 +64,10 @@ Después del ensamblaje, se procede al lacado de las piezas. Este proceso implic
 
 (1 operario)
 Una vez que se han lacado todas las piezas, se procede al almacenamiento.
-Primero se almacenan en un almacén de secado, donde las piezas deben permanecer un  tiempo estipulado, para asegurar que el lacado se fijó correctamente, luego se almacenan en un almacén de despacho, donde se surten a los transportistas para la entrega al cliente final.
+Primero se almacenan en un almacén de secado, donde las piezas deben permanecer un tiempo estipulado, para asegurar que el lacado se fijó correctamente, luego se almacenan en un almacén de despacho, donde se surten a los transportistas para la entrega al cliente final.
 El almacenamiento adecuado ayuda a proteger las piezas de la humedad y del polvo, lo que puede dañar la superficie.
 
 
 # Diagrama del proceso
 
-![Diagrama de planta no automatiza](./../images/diag_Planta1.png)
+![Diagrama de planta no automatizada](./../images/diag_Planta1.png)
