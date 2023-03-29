@@ -7,7 +7,7 @@
 - Julián Camilo Velandia
 - Santiago Hernández Lamprea
 
-# Plantación de Proyecto
+# Planteamiento de Proyecto
 [Aqui](./Especificaciones%20de%20Proyecto.pdf) se puede encontrar el documento de especificaciones de los productos que se van a desarrollar.
 
 De igual forma se plantea una [metodología](./Planeacion.md) para la gestión del proyecto.
