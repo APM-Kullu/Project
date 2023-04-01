@@ -25,42 +25,58 @@ Cabe resaltar que el proceso anterior lo realiza un mismo operario y pasa las l�
 ## 2. Corte láser
 
 (1 operario)
-El segundo paso en el proceso de fabricación de piezas de MDF es el corte láser. Este proceso implica el uso de un láser de alta precisión para cortar las piezas de MDF según las especificaciones de diseño. El corte láser permite cortes limpios y precisos, lo que ayuda a minimizar los residuos y el desperdicio de material.
+El segundo paso se realiza por un operario que suministra las láminas de MDF en la máquina de corte láser. Para lograr una precisión óptima en el corte, se utiliza un láser de alta precisión que corta las piezas de MDF de acuerdo con las especificaciones de diseño, lo que reduce los residuos y el desperdicio de material.
 
-Este paso se realiza por otro operario que suministra las láminas en la máquina.
+Para llevar a cabo el corte láser, se realizó una simulación en el software Fusion 360 a partir del plano CAD de todas las piezas. Sin embargo, aún existe incertidumbre en cuanto a la velocidad de corte real de la máquina seleccionada, debido a que los parámetros exactos de la misma no se encuentran disponibles en la página del proveedor. Por lo tanto, se seleccionó un parámetro de potencia y se obtuvo una estimación de la velocidad de corte a través de la web MantechMachinery. La simulación, junto con los planos de corte y el modelo CAD de las tres piezas, se encuentra disponible en el archivo "corteLaser.f3d".
 
-## 2. Separación de piezas
+Para llevar a cabo el corte láser se utiliza una lámina de MDF de 1300 mm x 900 mm x 15 mm como entrada, y se obtienen como salida las piezas individuales para armar 1 taburete, 1 portavinos y 2 bases para PC. El tiempo total estimado para este proceso es de 1:29 minutos.
 
-(1 operario)
-Una vez realizado el corte, el operario separa las piezas por tamaño, esto implica retirar las piezas del tablero principal y separarlas según su tamaño.
-Luego se introducen en dos buffers diferentes (Para piezas grandes y pequeñas), para pasar al área de fresado.
+Las lámina a cortar tienen las siguientes medidas: 1200 x 900 mm. La máquina de corte cuenta con una potencia de al menos 150 W.
 
-## 3. Fresado
+## 3. Separación de piezas
 
 (1 operario)
+El tercer paso en el proceso de fabricación de las piezas de MDF es la separación de las piezas cortadas. Este paso se realiza por un operario que se encarga de retirar las piezas cortadas del tablero principal y clasificarlas según su tamaño.
+
+El operario toma las piezas cortadas y las separa en dos grupos, uno para las piezas grandes y otro para las piezas pequeñas. Cada grupo se introduce en su respectivo buffer para pasar al siguiente paso en el proceso de fabricación, que es el área de fresado.
+
+Es importante destacar que la separación de las piezas según su tamaño es un paso crítico para asegurar la eficiencia. Toma Al rededor de 1:30 minutos por placa que entrega la máquina de corte. Además, la separación de las piezas grandes y pequeñas permite un mejor control de la producción y una organización más eficiente del flujo de trabajo.
+
+## 4. Fresado
+
+(2 operario)
 Después de separar las piezas, se realiza el fresado. Este proceso implica dar forma a las piezas y cortar cualquier exceso de material que pueda haber quedado después del corte láser. El fresado se realiza con una máquina fresadora de esquinas que acciona el operario del área. Luego se separan en un buffer individual por cada pieza.
+Este proceso tarda al rededor de 10 minutos y se realiza por 2 operarios
 
-## 4. Taladrado
+## 5. Taladrado
+
+(2 operario)
+El proceso de taladrado comienza después de que las piezas se han separado por tamaño, han pasado por el proceso de fresado y se han introducido en dos buffers diferentes. El operario comienza por hacer agujeros en las piezas según las especificaciones de diseño utilizando una máquina taladradora de banco y una máquina taladradora con sierra de copa, según los requerimientos de cada pieza.
+
+Una vez que se han taladrado todas las piezas, el operario las pasa por una banda transportadora para el sellado por aerosol. En este punto, el operario debe usar un compresor para limpiar la pieza de viruta antes de proceder con el sellado.
+
+Para realizar el taladrado en MDF, se necesita un taladro de banco de nivel industrial (sobremesa o pie), ya que se requerirá una alta intensidad de uso. Por lo general, para perforar MDF no se necesita una gran potencia de taladro, y un taladro con una potencia de 500 a 700 Watts debería ser suficiente para perforar MDF con brocas para madera estándar. Es importante utilizar la broca adecuada, y para MDF se recomienda una broca para madera con una punta de centrado y una geometría de corte que permita una perforación limpia. Además, es recomendable utilizar un taladro con una broca de punta de carburo, ya que son más duras y resistentes que las brocas de acero de alta velocidad y pueden perforar materiales más duros sin desgastarse rápidamente.
+
+Para esta etapa del proceso se ha seleccionado el taladro de columna B 24 H (400V), y se estima que el proceso de taladrado con dos operarios tomará alrededor de 6 minutos y 30 segundos en completarse.
+
+## 6. Sellado por aerosol
 
 (1 operario)
-El siguiente paso es el taladrado. Este proceso implica hacer agujeros en las piezas según las especificaciones de diseño. El taladrado se realiza con una máquina taladradora de banco y con una máquina taladradora con sierra de copa, dependiendo de los requerimientos de cada pieza. Luego el operario pasa las piezas por una banda transportadora para el sellado por aerosol. En este paso el operario debe usar un compresor para limpiar la pieza de viruta
+Una vez que se han cortado, separado, fresado y taladrado las piezas de MDF, se procede al sellado por aerosol. Este proceso implica aplicar una capa de sellador de aerosol sobre las piezas. El sellador ayuda a proteger la superficie de la pieza.
 
-## 5. Sellado por aerosol
+El tiempo que se requiere para realizar el sellado por aerosol de cada pieza depende del tamaño de las mismas, pero en promedio se estima que toma alrededor de 1 minuto por pieza. Una vez que se ha aplicado el sellador, después, un operario pone a secar las piezas en un almacén por un promedio de 4 horas, para asegurar que el sellante quede bien aplicado.
 
-(1 operario)
-Una vez que se han cortado, separado, fresado y taladrado las piezas de MDF, se procede al sellado por aerosol. Este proceso implica aplicar una capa de sellador de aerosol sobre las piezas. El sellador ayuda a proteger la superficie de la pieza. Esta estación es operada por un operario que pone a secar las piezas en un almacén por un promedio de 4 horas, para asegurar que el sellante quede bien aplicado.
-
-## 6. Ensamble
+## 7. Ensamble
 
 (2 -3 operarios)
-El siguiente paso es el ensamblaje de las piezas. Este proceso implica unir las diferentes piezas según el diseño, para esto, un operario las separa por el tipo de producto (Estantería, taburete y base) y entre 2 o 3 operarios (Dependiendo del volumen de producción), se realiza en ensambla del producto por medio de tornillería.
+El siguiente paso es el ensamblaje de las piezas. Este proceso implica unir las diferentes piezas según el diseño, para esto, un operario las separa por el tipo de producto (Estantería, taburete y base) y entre 2 o 3 operarios (Dependiendo del volumen de producción), se realiza en ensamblaje del producto por medio de tornillería, al cual para perforar agujeros de 4.2 mm de diámetro en las piezas de MDF, se requieren tornillos para madera de calibre 8. La mayoría de los tornillos necesarios son de 8 x 2", pero para algunas piezas se necesitarán tornillos de 8 x 1-¼". Los proovedores nacionales (Ver sección Tornillos de Equipos) venden los tornillos necesarios para este proceso, y el precio de cada paquete de 100 unidades es de COP 9.800 para los tornillos de 8 x 2" y COP 6.800 para los tornillos de 8 x 1-¼". El costo total dependerá de la cantidad de piezas que se realicen por día. Cabe destacar que estos precios corresponden a una compra nacional de los tornillos.
 
-## 7. Lacado
+## 8. Lacado
 
 (1 operario)
 Después del ensamblaje, se procede al lacado de las piezas. Este proceso implica aplicar una capa de laca sobre las piezas. La laca ayuda a proteger la superficie de la pieza y a darle un acabado suave y brillante. El lacado se realiza con una pistola de pintura y puede requerir varias capas, dependiendo del diseño y del acabado deseado.
 
-## 8. Almacenaje
+## 9. Almacenaje
 
 (1 operario)
 Una vez que se han lacado todas las piezas, se procede al almacenamiento.
