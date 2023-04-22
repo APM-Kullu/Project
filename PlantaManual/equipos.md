@@ -1,16 +1,23 @@
 # Equipos y Herramientas de planta no automatizada
+
+## Materia prima (Lámina de MDF 15 mm) 
+
+La materia prima es una lámina de MDF de 15 mm de espesor y de dimensiones 1.8 m x 2.4 m. La referencia de la lámina es [Lámina de MDF](https://colombia.masisa.com/producto/mdf/).
+
+<img src="https://i.ebayimg.com/images/g/pq0AAOSwDWVgEWoS/s-l1600.jpg" width="400">
+
+Las láminas son vendidas por Masisa  Colombia, hace falta una cotización al por mayor (Cuantas).
+
+<!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## Corte previo de lámina 
 
-Para cortar MDF en una sierra de mesa industrial, se recomienda una potencia de al menos **2500 Watts** o más. Con esta potencia, se pueden realizar cortes precisos
-y eficientes en el MDF sin sobrecargar la sierra. Sin embargo, es importante tener en cuenta que la potencia no es el único factor para considerar al elegir una 
-sierra de mesa industrial. También se debe considerar la calidad de la hoja de sierra, la capacidad de corte, la estabilidad y la durabilidad de la sierra.
-La lámina de MDF que se recibe como materia prima tiene dimensiones de **2400 x 1800 mm**, por lo que es importante considerar el área de trabajo de la máquina que 
-se seleccionará para realizar los cortes.
+Para cortar MDF se requiere de una sierra industrial, en este caso se hará una estación de corte con una sierra circular de mano. Se puede utilizar una sierra circular con una potencia mínima de 1200W y una velocidad de al menos 4500 RPM. Sin embargo, es importante tener en cuenta que la capacidad de corte (15 mm) también dependerá del diámetro de la hoja de sierra, la calidad y el tipo de la hoja de sierra, así como de la velocidad de alimentación del material. En general, se recomienda utilizar una hoja de sierra con un número de dientes adecuado para cortar MDF, que puede variar de 40 a 80 dientes. También es importante asegurarse de que la hoja de sierra esté afilada y en buen estado para garantizar un corte limpio y preciso.
 
-Para esta etapa se escogió la maquina [Holzmann TS315VF2600 230V](https://www.holzmann-maschinen.at/EN/panel-saw-1426).
+Para esta etapa se escogió la maquina [Sierra Circular 7-1/4-pulg 1500W 6000RPM GKS 150](https://homecenterco.scene7.com/is/image/SodimacCO/358623_1?fmt=jpg&fit=fit,1&wid=420&hei=420).
 
-<img src="https://www.holzmann-maschinen.at/uploadPim/1426/001_ts315vf2600-230v.jpg" width="400">
-(Precio pendiente)
+<img src="https://homecenterco.scene7.com/is/image/SodimacCO/358623_1?fmt=jpg&fit=fit,1&wid=420&hei=420" width="400">
+
+La máquina ruteadora es vendida por Homecenter, al ser una compra nacional solo se tiene en cuenta el precio mismo de la máquina: **COP 649.900**.  
 
 <!-- -------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 ## Corte láser
@@ -64,3 +71,4 @@ Para agujeros de 4.2 mm de diámetro se necesitan tornillos para madera de calib
 Los tornillos necesarios son vendidos por Homecenter, al ser una compra nacional solo se tiene en cuenta el precio mismo de los tornillos, para saber el costo total
 sería necesario conocer la cantidad de piezas que se realizarán por día, los precios por paquetes de 100 unidades son **COP 9.800** y **COP 6800** respectivamente.
 
+(Hace falta cotizar tornillos al por mayor)
