@@ -9,3 +9,5 @@ La pinza por vacío eléctrica VGC10 tiene posibilidades de personalización ili
 
 ## Flexibilidad y programabilidad
 La pinza por vacío eléctrica VGC10 es compatible con el brazo robótico de FANUC, lo que asegura una fácil integración y compatibilidad. También cuenta con una interfaz de programación intuitiva que facilita la programación y personalización de la tarea. Además, la conectividad de red Ethernet integrada facilita la integración del gripper en sistemas de control de producción más grandes.
+
+[Más información](https://www.roscomponents.com/es/pinzas/292--vgc10-.html)
