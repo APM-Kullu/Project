@@ -1,0 +1,91 @@
+﻿STEP to UG
+! INFO-     NX STEP AP214 - V1899
+! INFO-      
+! INFO-     Start of Translation: 29-MAY-2023  2:35:02 AM
+! INFO-      
+! STATUS-   Converting Part: C:\ProyectoAPM\NX\steps\Template1_Drilled.step
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      Unknown
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        Template1_Drilled.step
+! SUMMARY-  Date             2023-05-29T01:53:11-05:00
+! SUMMARY-  Author           Unknown
+! SUMMARY-  Organization     Unknown
+! SUMMARY-  Pre_Version      ST-DEVELOPER v19.2
+! SUMMARY-  Orig_System      Autodesk Translation Framework v12.4.0.73
+! SUMMARY-  Authorization    Unknown
+! SUMMARY-  Schema_ID        automotive_design
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_face ..............................................:    688
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  axis2_placement_3d .........................................:   1290
+! SUMMARY-  cartesian_point ............................................:   3536
+! SUMMARY-  circle .....................................................:    574
+! SUMMARY-  closed_shell ...............................................:     35
+! SUMMARY-  conical_surface ............................................:     16
+! SUMMARY-  context_dependent_shape_representation .....................:      5
+! SUMMARY-  cylindrical_surface ........................................:    282
+! SUMMARY-  direction ..................................................:   3698
+! SUMMARY-  edge_curve .................................................:   1708
+! SUMMARY-  edge_loop ..................................................:   1088
+! SUMMARY-  ellipse ....................................................:     16
+! SUMMARY-  face_bound .................................................:    400
+! SUMMARY-  face_outer_bound ...........................................:    688
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      7
+! SUMMARY-  item_defined_transformation ................................:      5
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:   1118
+! SUMMARY-  manifold_solid_brep ........................................:     35
+! SUMMARY-  next_assembly_usage_occurrence .............................:      5
+! SUMMARY-  oriented_edge ..............................................:   3416
+! SUMMARY-  plane ......................................................:    390
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      6
+! SUMMARY-  product_context ............................................:      1
+! SUMMARY-  product_definition .........................................:      6
+! SUMMARY-  product_definition_context .................................:      1
+! SUMMARY-  product_definition_formation ...............................:      6
+! SUMMARY-  product_definition_shape ...................................:     11
+! SUMMARY-  product_related_product_category ...........................:      6
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      5
+! SUMMARY-  shape_representation .......................................:      6
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      7
+! SUMMARY-  vector .....................................................:   1118
+! SUMMARY-  vertex_point ...............................................:   1128
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                          21305
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 29-MAY-2023 2:35:02 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 29-MAY-2023  2:35:02 AM
+! INFO-     Filing Part ..: C:\ProyectoAPM\NX\Template1_Drilled.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Coordinate System ...........:     4
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              7
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         0
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         0
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 29-MAY-2023  2:35:02 AM
+! INFO-      
