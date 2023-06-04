@@ -56,11 +56,57 @@ El precio del compresor es de COP 12.066.243.
 
 Para la unidad de mantenimiento se escoge una FRL, la cual combina el filtrado, la regulación de presión y la lubricación en un solo dispositivo, 
 garantizando un suministro de aire limpio, regulado y lubricado para los sistemas neumáticos, lo que resulta en un rendimiento óptimo, una mayor durabilidad 
-de los componentes y una operación confiable. La referencia de la unidad de mantenimiento es [AC20 Series 8492T115](https://www.mcmaster.com/8492T115/)
+de los componentes y una operación confiable. La referencia de la unidad de mantenimiento es [AC20 Series 8492T115](https://www.mcmaster.com/8492T115/).
 
 <img src="https://www.mcmaster.com/mvD/Contents/gfx/ImageCache/849/8492t2-@1x_636987887154604691.png?ver=ImageNotFound">
 
+Serie del fabricante: AC20.
+Configuración: En línea.
+Tamaño de la tubería: 1/8".
+Caudal máximo: 32 scfm a 100 psi.
+Presión máxima: 145 psi.
+Capacidad de eliminación de partículas: Hasta 5 micrones.
+Material del recipiente: Plástico de policarbonato transparente.
+Tipo de drenaje: Automático.
+Rango de ajuste de presión de salida: 7.25-123 psi.
+Capacidad de lubricante: 0.85 oz.
+Incluye manómetro.
+Altura total: 5 1/2".
+Ancho total: 5".
+Precisión de regulación: ±3%.
+
+El precio del compresor es de USD 94.40.
+
 ## Válvulas de Control Direccional
+
+Se han seleccionado válvulas 5/2 con activación por bobina eléctrica y retorno por muelle. Estas válvulas cuentan con dos posiciones de trabajo y cinco conexiones, lo que permite controlar el flujo de aire en el sistema neumático. La activación por bobina eléctrica proporciona un control preciso y rápido de las válvulas, mientras que el retorno por muelle garantiza la seguridad y la fiabilidad de la operación, asegurando que las válvulas vuelvan a su posición original en caso de fallo eléctrico. La referencia de las válvulas es [6425K11](https://www.mcmaster.com/6425K11/).
+
+<img src="https://www.mcmaster.com/mvD/Contents/gfx/ImageCache/642/6425k132-@1x_636881540402220587.png?ver=ImageNotFound">
+<img src="https://www.mcmaster.com/mvD/Contents/gfx/ImageCache/c03/c03a-E5l1-digital-master1551986280-p9@1x_636874820347248581.png?ver=ImageNotFound">
+
+Función: Control direccional.
+Tipo de válvula: Tipo carrete (spool).
+Tipo de válvula de control direccional de aire: 4 vías.
+Patrón de flujo: 5/2.
+Para tipo de cilindro de aire: Doble efecto.
+Actuación: Eléctrica (solenoides).
+Retorno de actuación: Por resorte.
+Caudal máximo: 56 scfm a 100 psi.
+Rango de presión: 15-150 psi.
+Rango de temperatura: -10°F a 115°F.
+Tipo de conexión de entrada: Roscada.
+Tamaño de entrada: 1/8 NPTF.
+Tipo de conexión de salida: Roscada.
+Tamaño de salida: 1/8 NPTF.
+Tipo de conexión de escape: Roscada.
+Tamaño de escape: 1/8 NPTF.
+Material del cuerpo: Aluminio.
+Dimensiones generales:
+Longitud: 5 1/2 pulgadas.
+Ancho: 7/8 pulgadas.
+Altura: 2 3/4 pulgadas.
+
+El precio de la válvula es de USD 112.92.
 
 ## Cilindros Neumáticos 
 
