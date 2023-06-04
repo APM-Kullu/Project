@@ -15,3 +15,5 @@ De igual forma se plantea una [metodología](./Planeacion.md) para la gestión d
 Automatización de Procesos de Manufactura
 
 Universidad Nacional de Colombia
+
+# [Planta automatizada](./PlantaAutomatizada/PropuestaPlanta.md)
