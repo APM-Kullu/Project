@@ -19,3 +19,5 @@ A continuación se presentan las 4 geometrías propuestas, junto con las piezas 
 La plantilla 4 aloja las mismas piezas que la plantilla 3 pero en una orientación diferente, de tal forma que ambas plantillas permiten el taladrado de agujeros en 2 planos diferentes para cada pieza.
 
 El modelo CAD de estas plantillas esta disponible en este enlace ![](./CAD/Plantillas_Taladrado.f3d), siendo desarrollado mediante el software Fusion360.
+
+El ensamble del armazón (pieza roja y verde) fabricado en aluminio 6061, tiene una masa de alrededor de 70kg, y junto a la geometría de la plantilla y las piezas alojadas, se estima un peso máximo de alrededor de 90Kg.
