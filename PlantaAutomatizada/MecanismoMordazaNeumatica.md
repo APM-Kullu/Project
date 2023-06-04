@@ -7,6 +7,7 @@ La mordaza neumática se trata de un mecanismo que permite el movimiento en un e
 El sistema fue diseñado teniendo en cuenta su fácil manufactura, por lo cual solo requiere la fabricación de soportes en acero conformado en caliente mediante soldadura, los cuales se representan en colo negro en la imagen presentada anteriormente (sin incluir la parte fija del cilindro neumático), el corte de 6 platinas de aluminio 6061 de 40mm de de espesor, el corte de una barilla de acero de 8mm de diámetro, la impresión 3D en un material de baja fricción como el nylon, de las piezas representadas en color blanco, y el corte de extrusiones de aluminio 8020 y 4020, en las piezas representadas de color naranja.
 
 El cilindro neumático junto con sus sensores de final de carrera, y las guías que soportan la mordaza, fueron seleccionadas del proveedor de partes McMASTER-CARR, teniendo en cuenta que se requiere un movimiento mayor a los 250mm, que es el tamaño de los elementos que ingresan dentro de la plantilla. Las referencias de partes seleccionadas son las siguientes:
+
 - [Enclosed-Body NFPA Tie Rod Air Cylinder - Cushioned, Double Acting, 32mm Bore, 275mm Stroke Length](https://www.mcmaster.com/60405K127/)
 
 ![](../images/cilindro.png)

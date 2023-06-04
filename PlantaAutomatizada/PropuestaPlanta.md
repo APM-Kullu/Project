@@ -24,8 +24,11 @@ En la siguiente imagen se muestra una vista superior de la celda del robot, la i
 ![](../images/celdaRobot.png)
 
 
+# Simulaciones de Corte
 
-# Diseño a detalle
+En este [documento](./PiezasYCortes.md) se describen algunos detalles que se deben tener en cuenta en el proceso de corte, como la modificación de los planos de corte, asi como la velocidad de corte y la simulación de estos procesos.
+
+# Diseño a detalle de planta automatizada
 
 En la siguiente imagen se muestra el diseño CAD de toda la planta automatizada, el cual es utilizado para la simulación mediante el software NX Mechatronics  Concept Designer. Se aclara que el robot que se muestra en el ensamble es de carácter representativo.
 
@@ -33,19 +36,28 @@ En la siguiente imagen se muestra el diseño CAD de toda la planta automatizada,
 
 La planta ocupa una area de aproximadamente 10.5m x 9.5m, ocupados principalmente por 3 cintas transportadoras, una fresadora CNC, y un robot antropomórfico.
 
+Los componentes comerciales que se utilizaron para el diseño de la planta automatizada, omitiendo los individuales de cada mecanismo son los siguientes:
 
 La maquina CNC seleccionada es la que se muestra en la siguiente imagen, disponible [aquí](https://cntmotion.com/solutions/application/feed-through-parts-machining/)
 
 ![](../images/CNCMachine.png)
 
-Se utilizan 3 cintas transportadoras como la que se muestra a continuación, disponible en este [enlace](https://www.grainger.com/product/BESTFLEX-Powered-Roller-Conveyor-24-5YDF4?opr=PDPRRDSP&analytics=dsrrItems_5YDF3), cada una de una longitud de 24 pies (aproximadamente 7.3m) y un ancho de 24 pulgadas (61cm).
+- Se utilizan 3 cintas transportadoras como la que se muestra a continuación, disponible en este [enlace](https://www.grainger.com/product/BESTFLEX-Powered-Roller-Conveyor-24-5YDF4?opr=PDPRRDSP&analytics=dsrrItems_5YDF3), cada una de una longitud de 24 pies (aproximadamente 7.3m) y un ancho de 24 pulgadas (61cm).
 
 ![](../images/conveyorMachine.png)
+
+- Para cada cinta transportadora, se utiliza un sensor para detectar la llegada de una pieza, la referencia seleccionada se encuentra disponible [aquí](https://www.mcmaster.com/7674K812/).
+
+- PLC [1769-L30ER ALLEN-BRADLEY](https://co.wiautomation.com/allen-bradley/plc-sistemas/compactlogix/1769L30ER?gclid=Cj0KCQjw7PCjBhDwARIsANo7CgmpGsCVsYg1hpT3X5nnFjPaax9bad99TBPo--CAxjIbJZAdXeUibbYaAoEbEALw_wcB) con sus correspondientes modulos de entradas y salidas digitales, [1756-IV32 ALLEN-BRADLEY](https://co.wiautomation.com/allen-bradley/modulos/controllogix/1756IV32). y [1756-OV32E ALLEN-BRADLEY](https://co.wiautomation.com/allen-bradley/modulos/controllogix/1756OV32E).
+
+![](../images/plc.png)
+
+
 
 Adicionalmente se puede acceder a los siguientes documentos que describen el diseño a detalle de cada uno de los componentes de la planta automatizada.
 
 
-## [Plantillas de sujeción](./Plantillas.md)
+## [Plantillas de Sujeción](./Plantillas.md)
 ## [Mecanismo de Mordaza](./Plantillas.md)
 ## [Mecanismo de taladrado](./MecanismosTaladrado.md)
 
