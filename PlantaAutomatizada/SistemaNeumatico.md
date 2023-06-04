@@ -110,5 +110,5 @@ El precio de la válvula es de USD 112.92.
 
 ## Cilindros Neumáticos 
 
-La referencia de los cilindros neumáticos utilizados se encuentra en [Mecanismo Mordaza Neumática](Mecanismo_Mordaza_Neumatica.md).
+La referencia de los cilindros neumáticos utilizados se encuentra en [Mecanismo Mordaza Neumática](MecanismoMordazaNeumatica.md).
 
