@@ -1,9 +1,8 @@
 # Drivers y Motores - Control de Movimiento
 
-Este documento presenta el diseño del sistema neumático de la planta automatizada. Este sistema utiliza tecnología neumática para el control y accionamiento 
-de diferentes procesos y mecanismos en la planta. El diseño se basa en la utilización de componentes clave como un compresor de aire, válvulas neumáticas, 
-cilindros y otros dispositivos neumáticos. Estos componentes trabajan en conjunto con el PLC para proporcionar energía y control a los distintos mecanismos 
-automatizados de la planta.
+Para determinar los servomotores y drivers adecuados que se utilizarán en el sistema de taladrado, es necesario realizar cálculos para determinar el torque requerido en cada eje del mecanismo. Además, consideraremos el uso de carriles lineales para cada eje, lo cual afectará los cálculos de velocidad y aceleración. Teniendo en cuenta los carriles de guía lineal del [Mecanismo de taladrado](MecanismoTaladrado.md)
+
+
 
 ## Diagrama Sistema Neumático
 ![Diagrama neumatico_page-0001](https://github.com/APM-Kullu/Project/assets/42346345/26222e50-c0c4-49e7-a6ca-bb3b0fb1604f)
