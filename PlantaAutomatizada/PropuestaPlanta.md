@@ -58,6 +58,6 @@ Adicionalmente se puede acceder a los siguientes documentos que describen el dis
 
 
 ## [Plantillas de Sujeción](./Plantillas.md)
-## [Mecanismo de Mordaza](./Plantillas.md)
+## [Mecanismo de Mordaza](MecanismoMordazaNeumatica.md)
 ## [Mecanismo de Taladrado](./MecanismosTaladrado.md)
 
