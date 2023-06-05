@@ -21,8 +21,7 @@ Se obtienen un tiempo de corte de 11 minutos, 6 segundos para la primera lamina,
 
 # Corte CNC
 
-El corte ejecutado por la fresadora CNC se trata de un contoneado de acabado de bordes, ademas del desbaste de los conectores de la pieza con el taladro, repasando el borde de cada pieza en 2mm-3mm en función de su tamaño. La referencia de fresa seleccionada es la [Router Bit for Wood, Particleboard, Plywood
-Uncoated High-Speed Steel, 3/16" Cutting Diameter, 5/8" Length of Cut](https://www.mcmaster.com/2891A11) de la web de McMASTER-CARR.
+El corte ejecutado por la fresadora CNC se trata de un contoneado de acabado de bordes, ademas del desbaste de los conectores de la pieza con el taladro, repasando el borde de cada pieza en 2mm-3mm en función de su tamaño. La referencia de fresa seleccionada es la [Router Bit for Wood, Particleboard, Plywood Uncoated High-Speed Steel, 3/16" Cutting Diameter, 5/8" Length of Cut](https://www.mcmaster.com/2891A11) de la web de McMASTER-CARR.
 
 Se calcula una velocidad de corte $V_c = 270 \frac{m}{min}$,  con un avance de $V_f = 5760 \frac{mm}{min}$ a 18000 RPM, para metros que se utilizan para simular el corte y obtener los tiempos de corte.
 
