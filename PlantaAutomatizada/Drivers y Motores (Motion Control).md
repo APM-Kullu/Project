@@ -112,7 +112,21 @@ $T_{in}=\frac{53.63 N\cdot 10 mm}{2000 \pi \cdot 0.85 }$
 
 
 ## Selección de motor y Driver
-Para la selección del servomotor que se debe usar fue necesario tener en cuenta el tamaño del marco que requieren los carriles de guía lineal, este debía ser de tamaño NEMA 23, por lo cual se buscó en la familia de los servomotores Kinetix TL/TLY la cual cuenta con el tamaño deseado. El motor que cumple con el torque y velocidad maxima deseados es el de referencia TLY-A220P-BJ64AA el cual es compatible con el driver Kinetix 350
+Seleccionar el servomotor adecuado implicó considerar el tamaño requerido del marco para los carriles de guía lineal, el cual debía ser de tamaño NEMA 23. Para cumplir con este requisito, se buscó dentro de la familia de servomotores Kinetix TL/TLY que ofrece el tamaño deseado. Entre los modelos disponibles, se encontró que el motor de referencia [TLY-A220P-BJ64AA](https://configurator.rockwellautomation.com/configurator/0E77E6A8D22D45FCA1707BD86DAB74A1/summary) cumple con el torque y la velocidad máxima deseados. Además, este motor es compatible con los drivers [Kinetix 350](https://www.rockwellautomation.com/es-co/products/hardware/allen-bradley/motion-control/servo-drives/single-axis-control/2097-kinetix-350.html).
+
+<img src="https://www.rockwellautomation.com/resources/images/productinfo/IDW_1000x1000/TLY/TLY-A220T-HJ64AA_1000x1000.jpg" width="400">
+
+Frame Size: 2 = 70 mm (2.75 in.) or NEMA 23
+Feedback: Absolute Encoder, Battery-Backed, Multi-Turn
+Mounting: 70 mm bolt circle metric flange
+Connectors: Cables with circular connectors, 1 m (39.4in.)
+Brake Option: 24V DC Brake
+Magnet Stack Length: Two Stack
+Bulletin Number: TL-Series (TLY)
+Rated Speed: 5000 rpm
+Enclosure/Shaft Key/Shaft Seal: IP65 housing/ Shaft key/No shaft seal
+Factory Options: Standard (Metric)
+Torque String: 0.757 Nm
 
 
 
