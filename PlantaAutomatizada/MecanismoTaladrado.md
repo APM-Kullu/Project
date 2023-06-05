@@ -19,11 +19,14 @@ El Eje Y en color azul, es doble, tiene un rango de de 600mm, y es sobre el cual
 - Eje Z: [Motor-Mount Positioning Slide for NEMA 23 Motor Frame Size, 400 mm Stroke Length](https://www.mcmaster.com/6734K816)
 - Conexión entre Eje X y eje Y: 2x [Side Orientation Two-Axis Mounting Plate for Motor-Mount Positioning Slide](https://www.mcmaster.com/6734K821)
 - Motor de taladrado: [1.5KW Air Cooled Spindle Square CNC Spindle Motor ER11/ER16](https://www.zhonghuajiangspindle.com/1.5kw-cnc-square-air-cooled-spindle-motor.html)
+- Variador de frecuencia para el motor de taladrado: [CIMR-PU2A0018FAA YASKAWA](https://co.wiautomation.com/yaskawa/variadores-motores-proteccion-de-circuitos/CIMRPU2A0018FAA)
 - 16x Tornillos M4 x 0.7mm para el fijado entre ejes
 - 8x Tornillos M8 x 30mm para el fijado del motor de taladrado.
 - 36x [T-Slotted Framing Silver Corner Bracket for 60mm High Rail, 1-1/8" Long](https://www.mcmaster.com/5537T941)
 - 144x Tornillos M6 x 20mm para el fijado del armazón de aluminio mediante esquineros
-  
+- 10.5 metros de extrusion de aluminio 6060: 2x [T-Slotted Framing Quad Rail, Silver, 60 mm High x 60 mm Wide, Hollow](https://www.mcmaster.com/5537T99-5537T806/)
 
 
+Para mas detalle sobre la selección de motores y sus respectivos drivers consulte este [documento](./Drivers%20y%20Motores%20(Motion%20Control).md)
 
+El modelo CAD del mecanismo esta disponible en el [archivo](./CAD/MecanismoTaladrado%20v33.f3z)
