@@ -39,7 +39,73 @@ Distancia por vuelta: 10 mm/rev
 - Broca: 0.01 kg
 
 ## Cálculo de Torque necesario para cada eje
-En primer lugar se fija la aceleración deseada para cada eje, esto teniendo en cuenta el límite de los carriles y las velocidades máximas de cada eje. Luego se hace una simplificación de la carga de cada eje como una masa puntual
+En primer lugar se fija la aceleración deseada para cada eje, esto teniendo en cuenta el límite de los carriles y las velocidades máximas de cada eje. Luego se hace una simplificación de la carga de cada eje como una masa puntual par realizar el cálculo del torque necesario usando la formula de torque:
+$$T_{in}=\frac{F\cdot P}{2000 \pi \cdot \eta }$$
+
+### Eje Y:
+Se supone una velocidad máxima de 450 mm/s para que no exceda la capacidad de este carril y un tiempo de aceleración de 0.2 s:
+
+<img src="https://github.com/APM-Kullu/Project/assets/42346345/a36e4887-97ad-4a17-9b55-99fb3cdc6a08" width="500" alt="Imagen escalada">
+
+$a=\frac{450\frac{mm}{s}}{0.2 s}$      $a=2250\frac{mm}{s^2}$      $a=2.25\frac{m}{s^2}$
+
+Ahora el diagrama de cuerpo libre queda: 
+
+<img src="https://github.com/APM-Kullu/Project/assets/42346345/7bfbc5ed-a156-41e6-8bda-eacba0e5138b" width="500" alt="Imagen escalada">
+
+y por último se puede hallar el torque con la fórmula antes mencionada:
+
+$T_{in}=\frac{78.75 N\cdot 10 mm}{2000 \pi \cdot 0.85 }$
+
+**$T=0.147 N-m$**
+
+**$V_{max}=0.45 \frac{m}{s}(2700 RPM)$**
+
+**$a_{max}=2.25 \frac{m}{s^2}$**
+
+
+### Eje X:
+Se supone una velocidad máxima de 600 mm/s para que no exceda la capacidad de este carril y un tiempo de aceleración de 0.25 s:
+
+<img src="https://github.com/APM-Kullu/Project/assets/42346345/d4874cc2-2f0b-462d-8cd5-44dd71883064" width="500" alt="Imagen escalada">
+
+$a=\frac{600\frac{mm}{s}}{0.25 s}$      $a=2400\frac{mm}{s^2}$      $a=2.4\frac{m}{s^2}$
+
+Ahora el diagrama de cuerpo libre queda: 
+
+<img src="https://github.com/APM-Kullu/Project/assets/42346345/ee0e6f8d-2c65-44fc-a10b-8a01bfc0d27d" width="500" alt="Imagen escalada">
+
+y por último se puede hallar el torque con la fórmula antes mencionada:
+
+$T_{in}=\frac{43.2 N\cdot 10 mm}{2000 \pi \cdot 0.85 }$
+
+**$T=0.081 N-m$**
+
+**$V_{max}=0.6 \frac{m}{s}(3600 RPM)$**
+
+**$a_{max}=2.4 \frac{m}{s^2}$**
+
+### Eje Z:
+Se supone una velocidad máxima de 600 mm/s para que no exceda la capacidad de este carril y un tiempo de aceleración de 0.25 s:
+
+<img src="https://github.com/APM-Kullu/Project/assets/42346345/d4874cc2-2f0b-462d-8cd5-44dd71883064" width="500" alt="Imagen escalada">
+
+$a=\frac{600\frac{mm}{s}}{0.25 s}$      $a=2400\frac{mm}{s^2}$      $a=2.4\frac{m}{s^2}$
+
+Ahora el diagrama de cuerpo libre, suponiendo el caso más crítico en donde el motor debe acelerar la carga en contra de la gravedad, queda: 
+
+<img src="https://github.com/APM-Kullu/Project/assets/42346345/f3ad51d8-ccac-49de-8f74-1cb3fbc9d024" width="500" alt="Imagen escalada">
+
+y por último se puede hallar el torque con la fórmula antes mencionada:
+
+$T_{in}=\frac{53.63 N\cdot 10 mm}{2000 \pi \cdot 0.85 }$
+
+**$T=0.099 N-m$**
+
+**$V_{max}=0.6 \frac{m}{s}(3600 RPM)$**
+
+**$a_{max}=2.4 \frac{m}{s^2}$**
+
 
 
 ## Diagrama Sistema Neumático
