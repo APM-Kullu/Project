@@ -26,7 +26,8 @@ Distancia por vuelta: 10 mm/rev
 - Mounting plate: 0.713 kg
 - Motor husillo: 4.3 kg
 - Broca: 0.01 kg
-- 
+
+**TOTAL: 35 kg**
 ### Eje X:
 - Motor Eje Z: 5 kg
 - Carril Eje X: 8 kg
@@ -34,9 +35,12 @@ Distancia por vuelta: 10 mm/rev
 - Motor husillo: 4.3 kg
 - Broca: 0.01 kg
 
+**TOTAL: 18 kg**
 ### Eje Z:
 - Motor husillo: 4.3 kg
 - Broca: 0.01 kg
+
+**TOTAL: 4.31 kg**
 
 ## Cálculo de Torque necesario para cada eje
 En primer lugar se fija la aceleración deseada para cada eje, esto teniendo en cuenta el límite de los carriles y las velocidades máximas de cada eje. Luego se hace una simplificación de la carga de cada eje como una masa puntual par realizar el cálculo del torque necesario usando la formula de torque:
@@ -105,6 +109,12 @@ $T_{in}=\frac{53.63 N\cdot 10 mm}{2000 \pi \cdot 0.85 }$
 **$V_{max}=0.6 \frac{m}{s}(3600 RPM)$**
 
 **$a_{max}=2.4 \frac{m}{s^2}$**
+
+
+## Selección de motor y Driver
+Para la selección del servomotor que se debe usar fue necesario tener en cuenta el tamaño del marco que requieren los carriles de guía lineal, este debía ser de tamaño NEMA 23, por lo cual se buscó en la familia de los servomotores Kinetix TL/TLY la cual cuenta con el tamaño deseado. El motor que cumple con el torque y velocidad maxima deseados es el de referencia TLY-A220P-BJ64AA el cual es compatible con el driver Kinetix 350
+
+
 
 
 
