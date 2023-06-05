@@ -1,7 +1,45 @@
 # Drivers y Motores - Control de Movimiento
 
-Para determinar los servomotores y drivers adecuados que se utilizarán en el sistema de taladrado, es necesario realizar cálculos para determinar el torque requerido en cada eje del mecanismo. Además, consideraremos el uso de carriles lineales para cada eje, lo cual afectará los cálculos de velocidad y aceleración. Teniendo en cuenta los carriles de guía lineal del [Mecanismo de taladrado](MecanismoTaladrado.md)
+Para determinar los servomotores y drivers adecuados que se utilizarán en el sistema de taladrado, es necesario realizar cálculos para determinar el torque requerido en cada eje del mecanismo. Además, consideraremos el uso de carriles lineales para cada eje, lo cual afectará los cálculos de velocidad y aceleración. Es necesario tener en cuenta los carriles de guía lineal del [Mecanismo de taladrado](MecanismoTaladrado.md) ya que estos ponen límites en las cargas, velocidades y aceleraciones.
 
+## Carriles de guía lineal
+Distancia por vuelta: 10 mm/rev
+
+**Capacidad:** 395 lbs (179 kg).
+
+**Aceleración máxima:** 0.3 g (2.94 m/s^2)
+
+**Torque máximo:** 176 in-oz (1.243 N-m)
+
+**Velocidad máxima:**
+- Eje X: 650 mm/s (3900 RPM)
+- Eje Y: 470 mm/s (2820 RPM)
+- Eje Z: 790 mm/s (4740 RPM)
+
+## Cargas de cada eje
+### Eje Y:
+- Mounting plate x2: 3.4 kg
+- Motor Eje X: 5 kg
+- Carril Eje X: 9 kg
+- Motor Eje Z: 5 kg
+- Carril Eje X: 8 kg
+- Mounting plate: 0.713 kg
+- Motor husillo: 4.3 kg
+- Broca: 0.01 kg
+- 
+### Eje X:
+- Motor Eje Z: 5 kg
+- Carril Eje X: 8 kg
+- Mounting plate: 0.713 kg
+- Motor husillo: 4.3 kg
+- Broca: 0.01 kg
+
+### Eje Z:
+- Motor husillo: 4.3 kg
+- Broca: 0.01 kg
+
+## Cálculo de Torque necesario para cada eje
+En primer lugar se fija la aceleración deseada para cada eje, esto teniendo en cuenta el límite de los carriles y las velocidades máximas de cada eje. Luego se hace una simplificación de la carga de cada eje como una masa puntual
 
 
 ## Diagrama Sistema Neumático
