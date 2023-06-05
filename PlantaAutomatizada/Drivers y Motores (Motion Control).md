@@ -128,20 +128,6 @@ Enclosure/Shaft Key/Shaft Seal: IP65 housing/ Shaft key/No shaft seal
 Factory Options: Standard (Metric)
 Torque String: 0.757 Nm
 
+El servomotor está equipado con un encoder absoluto de 17 bits, lo que equivale a 131,072 cuentas por vuelta completa del rotor. Teniendo en cuenta que cada vuelta del rotor corresponde a un avance lineal de 10 mm, la resolución de posición para cada eje sería aproximadamente de 0.000076 mm. 
 
 
-
-
-## Diagrama Sistema Neumático
-![Diagrama neumatico_page-0001](https://github.com/APM-Kullu/Project/assets/42346345/26222e50-c0c4-49e7-a6ca-bb3b0fb1604f)
-
-## Compresor
-Ya que el compresor solo se usará para el sistema de mordazas neumáticas, se escoge un compresor de 2 etapas 5 HP 500L, el cual cumple con la capacidad de flujo
-requerida para accionar los cuatro cilindros neumáticos y con la presión requerida. La referencia del compresor es 
-[E230ME0500-500](https://www.evans.com.co/producto/compresor-aire-lubricado-2-etapas-5-hp-motor-electrico-tanque-500-litros-175-psi-e230me0500-500/).
-
-<img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_450,h_450/https://www.evans.com.co/wp-content/uploads/2017/06/Compresores_EVANS_E230ME0500_500_1L_50.jpg" width="400">
-
-MOTOR:
-
-Potencia del motor: 5.
