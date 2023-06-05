@@ -106,7 +106,7 @@ Longitud: 5 1/2 pulgadas.
 Ancho: 7/8 pulgadas.
 Altura: 2 3/4 pulgadas.
 
-El precio de la válvula es de **USD 112.92**.
+El precio de la válvula es de **USD 112.92** y se requieren 4.
 
 ## Cilindros Neumáticos 
 
@@ -130,7 +130,7 @@ Tamaño de la entrada de aire: 1/8 (rosca BSPP).
 
 Estas características demuestran que el cilindro neumático seleccionado es adecuado para nuestras necesidades en términos de tamaño, fuerza, capacidad de amortiguación y durabilidad.
 
-El precio del cilindro es **USD 233.28**.
+El precio del cilindro es **USD 233.28** y se requieren 4.
 
 ## Mufflers
 
@@ -156,7 +156,32 @@ Para reducir: Ruido, partículas.
 Remueve partículas de tamaño hasta: 40 micrones.
 Calificación de reducción de ruido: 10-20 dB.
 
-El precio de los Mufflers es **USD 4.18**. 
+El precio de los Mufflers es **USD 4.18** y se requieren 8. 
 
+## Válvulas de control de flujo
 
+La válvula de control de flujo de aire con codo ajustable de precisión. Esta válvula se utiliza en sistemas neumáticos para controlar y regular el flujo de aire en una dirección específica. La función principal de esta válvula es controlar la velocidad y el flujo de aire en un circuito neumático. Será utilizada para regular la velocidad de los cilindros neumáticos. La referencia escogida es [4076K37](https://www.mcmaster.com/4076K37/).
 
+<img src="https://www.mcmaster.com/mvD/Contents/gfx/ImageCache/407/4076k28--885391fc6361560182088-p9@1x_636957609029154304.png?ver=ImageNotFound">
+
+Uso: Aire comprimido.
+Función de la válvula: Ajuste de flujo.
+Tipo de válvula: Aguja.
+Forma: Codo de 90°.
+Actuación: Presión.
+Control de flujo: En una dirección.
+Tipo de control de flujo: Salida del cilindro.
+ISO Designación: Meter Out.
+Mecanismo de ajuste de flujo: Dial.
+Número de puertos: 2 (1 de flujo, 1 de entrada, 1 de salida).
+Material del cuerpo: Plástico de nylon.
+Material del accesorio: Latón.
+Coeficiente de flujo (Cv): 0.006.
+Tasa de flujo máxima: 0.1 scfm a 100 psi.
+Presión máxima: 145 psi.
+Rango de temperatura: 35° a 155° F.
+Dimensiones: Longitud de 15/16", ancho de 7/16", altura de 1 5/16".
+Conexión de entrada: Roscada (tipo NPT) de 1/8".
+Conexión de salida: Push to Connect para tubo de 1/8" de diámetro exterior.
+
+El precio de la válvula es de **USD 22.75** y se requieren 8.
