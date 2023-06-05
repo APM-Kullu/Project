@@ -50,7 +50,7 @@ Cambios de aceite posteriores: 1500 horas (Usar aceite RC-X3000 vendido por sepa
 Potencia mecánica de la cabeza: 5.00 HP.
 Desplazamiento: 23.00 pcm.
 
-El precio del compresor es de COP 12.066.243. 
+El precio del compresor es de **COP 12.066.243**. 
 
 ## Unidad de Mantenimiento (FRL)
 
@@ -75,7 +75,7 @@ Altura total: 5 1/2".
 Ancho total: 5".
 Precisión de regulación: ±3%.
 
-El precio del compresor es de USD 94.40.
+El precio del compresor es de **USD 94.40**.
 
 ## Válvulas de Control Direccional
 
@@ -106,9 +106,57 @@ Longitud: 5 1/2 pulgadas.
 Ancho: 7/8 pulgadas.
 Altura: 2 3/4 pulgadas.
 
-El precio de la válvula es de USD 112.92.
+El precio de la válvula es de **USD 112.92**.
 
 ## Cilindros Neumáticos 
 
-La referencia de los cilindros neumáticos utilizados se encuentra en [Mecanismo Mordaza Neumática](MecanismoMordazaNeumatica.md).
+La referencia de los cilindros neumáticos utilizados se encuentra en [60405K127](https://www.mcmaster.com/60405K127/) y se usa en el 
+[Mecanismo Mordaza Neumática](MecanismoMordazaNeumatica.md). 
+
+<img src="https://www.mcmaster.com/mvD/Contents/gfx/ImageCache/640/6402t811-1647969487-p9@1x_637835482946000001.png?ver=ImageNotFound">
+
+Tipo de cilindro: Tie Rod (de tipo tirante).
+Tamaño del orificio: 32 mm.
+Carrera: 275 mm (retraído: 421 mm, extendido: 696 mm).
+Fuerza a 50 psi: 63 lbs.
+Fuerza a 100 psi: 125 lbs.
+Tipo de amortiguación: Amortiguación ajustable.
+Tipo de actuación: Doble efecto (aire para extender y aire para retraer).
+Material del cuerpo: Aluminio extruido.
+Material del émbolo: Acero inoxidable 431.
+Diámetro de la varilla: 12 mm.
+Tipo de rosca de la varilla: M10.
+Tamaño de la entrada de aire: 1/8 (rosca BSPP).
+
+Estas características demuestran que el cilindro neumático seleccionado es adecuado para nuestras necesidades en términos de tamaño, fuerza, capacidad de amortiguación y durabilidad.
+
+El precio del cilindro es **USD 233.28**.
+
+## Mufflers
+
+Los "mufflers" (también conocidos como silenciadores o atenuadores) son dispositivos utilizados para reducir el ruido generado por el escape de gases en sistemas de aire comprimido. Estos dispositivos se instalan en el sistema de escape o en las salidas de aire y tienen la función de disminuir la intensidad del sonido producido por el flujo de gases. Se utilizan comúnmente en las salidas de aire de las válvulas de control direccional en sistemas neumáticos. Estos dispositivos se instalan en la salida de escape de las válvulas para reducir el ruido generado por el escape de aire comprimido. La referencia escogida es [7352N61](https://www.mcmaster.com/7352N61/).
+
+<img src="https://www.mcmaster.com/mvD/Contents/gfx/ImageCache/735/7352N61multipositive_top_positive_right_washer_1614256045_192@1x_637498313096587939.png?ver=ImageNotFound">
+
+Estilo: A.
+Tipo de conexión: Tubo.
+Tipo de conexión de tubo: Roscado.
+Tamaño de tubo: 1/8".
+Tipo de rosca: BSPP (British Standard Pipe Parallel).
+Género: Macho.
+Caudal máximo: 21 scfm @ 100 psi (Pies cúbicos estándar por minuto a 100 psi).
+Presión máxima: 175 psi.
+Temperatura máxima: 175° F.
+Altura: 1 3/4".
+Estilo de accionamiento: Hexagonal externo.
+Para uso con: Aire, gas inerte.
+Material: Latón.
+Construcción del cuerpo: Poroso.
+Para reducir: Ruido, partículas.
+Remueve partículas de tamaño hasta: 40 micrones.
+Calificación de reducción de ruido: 10-20 dB.
+
+El precio de los Mufflers es **USD 4.18**. 
+
+
 
